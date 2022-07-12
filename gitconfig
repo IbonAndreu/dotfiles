@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ibon_andreu_93@hotmail.com
+	name = Ibon Andreu
